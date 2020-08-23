@@ -1,9 +1,0 @@
-{
-	"RepetitionTime": 2.040,
-	"Manufacturer": "Siemens",
-	"ManufacturerModelName": "Area",
-	"MagneticFieldStrength": 1.5,
-	"SequenceName": "MPRAGE",
-	"EchoTime": 0.00308,
-	"FlipAngle": 15.0
-}
